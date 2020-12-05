@@ -1,6 +1,6 @@
 ### Hello, i'm Raoul! 👋
 
-I am a software developer and the creator of the open source NodeJS API 'statusapi'.
+I am a software developer and the creator of the open source NodeJS API [statusapi](https://github.com/Domipas/statusapi).
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=raouldeheer&show_icons=true&count_private=true&hide=contribs&theme=gruvbox)
 ![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=raouldeheer&layout=compact&theme=gruvbox)
