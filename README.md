@@ -1,6 +1,7 @@
 ### Hello, i'm Raoul! 👋
 
-I am a software developer and the creator of the open source NodeJS API [statusapi](https://github.com/Domipas/statusapi).
+I am a software developer and the creator of the open source NodeJS API [statusapi](https://github.com/Domipas/statusapi).  
+I'm also the creator of [Mylas](https://github.com/raouldeheer/Mylas) a npm package that makes it easier to use files from fs.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=raouldeheer&show_icons=true&count_private=true&hide=contribs&theme=gruvbox)
 ![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=raouldeheer&layout=compact&theme=gruvbox)
@@ -25,7 +26,7 @@ I am a software developer and the creator of the open source NodeJS API [statusa
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
