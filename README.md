@@ -1,4 +1,4 @@
-### Hello, i'm Raoul! 👋
+### Hello, I'm Raoul! 👋
 
 I am a software developer and the creator of the open source NodeJS API [statusapi](https://github.com/Domipas/statusapi).  
 I'm also the creator of [Mylas](https://github.com/raouldeheer/Mylas) a npm package that makes it easier to use files from fs.
