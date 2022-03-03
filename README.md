@@ -3,7 +3,7 @@
 I am a software developer and the creator of the creator of [Mylas](https://github.com/raouldeheer/Mylas) a npm package that makes it easier to use files from fs.
 Help maintain [Tsc-Alias](https://github.com/justkey007/tsc-alias), not made by me. And I'm enthusiastic about typescript.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=raouldeheer&show_icons=true&count_private=true&hide=contribs&theme=gruvbox)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=raouldeheer&show_icons=true&count_private=true&theme=gruvbox)
 ![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=raouldeheer&layout=compact&theme=gruvbox)
 
 
